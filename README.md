@@ -33,3 +33,6 @@ The animation opens in its own window. Close the window to exit.
 ## Credits and reuse
 
 Ronaldo Diergaardt is the project owner. If you reuse or adapt code or assets from another source, retain the applicable credit and license information. No license is specified here; contact the owner for permission before redistributing or reusing this project.
+
+
+inspired by someone else
